@@ -5,4 +5,5 @@ Arduino Compatible, gizDuino Supporting Documents
 
 gizDuino X (ATmega1281) with FREE CASE
 -----------
+
 ![Imgur](http://i.imgur.com/GK31pqK.png)
